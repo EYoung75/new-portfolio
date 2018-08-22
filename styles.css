@@ -1,0 +1,74 @@
+img {
+	width: 45%;
+	float: left;
+	height: 275px;
+	margin-top: 25px;
+	margin-left: 25px;
+	
+	
+	
+}
+
+body {
+	background-color: #5575a8
+
+}
+
+h1 {
+	font-family: 'Amatic SC', cursive;
+	color: rgb(148, 25, 25);
+	font-size: 125px;
+	margin-bottom: 0px;
+	background-color: hsl(40, 91%, 71%);
+	padding-left: 8%;
+}
+
+.navbar {
+	background-color: #3c5f87;
+	font-color: rgb(148, 25, 25);
+}
+
+.main {
+	font-family: 'Amatic SC', cursive;
+	color: rgb(148, 25, 25);
+	font-size: 125px;
+	margin-bottom: 0px;
+	background-color: hsl(40, 91%, 71%);
+	padding-left: 8%;
+}
+
+.navbar-default .navbar-brand {
+    color: rgb(148, 25, 25);
+	font-family: 'Amatic SC', cursive;
+	font-size: 50px;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: rgb(148, 25, 25);
+	font-family: 'Amatic SC', cursive;
+	font-size: 35px;
+}
+
+p {
+    font-family: 'Comfortaa', cursive;
+	color: black;
+	font-size: 25px;
+	padding-top: 5%;
+	text-indent: 25px;
+}
+
+h2, h3, h4, ul{
+	font-family: 'Comfortaa', cursive;
+	color: black;
+	margin-left: 10%;
+	font-size: 25px;
+}
+
+iframe {
+	float: left;
+	margin-top: 25px;
+	margin-left: 25px;
+	
+	
+	
+}
