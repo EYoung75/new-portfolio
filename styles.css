@@ -9,6 +9,16 @@ img {
 	
 }
 
+#run {
+	height: auto;
+	width: auto;
+}
+
+#chill {
+	height: 150%;
+	width: 75%;
+}
+
 body {
 	background-color: #5575a8
 
@@ -57,7 +67,7 @@ p {
 	text-indent: 25px;
 }
 
-h2, h3, h4, ul{
+h2, h3, h4, ul {
 	font-family: 'Comfortaa', cursive;
 	color: black;
 	margin-left: 10%;
