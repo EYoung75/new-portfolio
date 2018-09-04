@@ -1,30 +1,38 @@
 body {
-  background-image: url("https://lh3.googleusercontent.com/brIQGfO8ssReM1Z0PPtqiuRVzEzC6hr2nads4zR3py7WFqmmGcyl2S7lvzyLduAKx73EVeNmbia5zEFa6n26ZuL4BdWs4I3JiGPDLnCIwv4ui_A5bWYXikDCqvdxOVtBZ9rcgkL8=w2400");
-  background-size: cover;
+    background-image: url("https://lh3.googleusercontent.com/brIQGfO8ssReM1Z0PPtqiuRVzEzC6hr2nads4zR3py7WFqmmGcyl2S7lvzyLduAKx73EVeNmbia5zEFa6n26ZuL4BdWs4I3JiGPDLnCIwv4ui_A5bWYXikDCqvdxOVtBZ9rcgkL8=w2400");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 
-
-  }
 #content {
     color: rgb(148, 25, 25);
-  padding-top: 5%;
-  font-family: 'Amatic SC', cursive;
-  font-size: 75px;
-  text-align: center;
-
+    padding-top: 5%;
+    font-family: 'Amatic SC', cursive;
+    font-size: 75px;
+    text-align: center;
 }
+
 .navbar {
-	background-color: #3c5f87;
-	font-color: rgb(148, 25, 25);
+    background-color: #3c5f87;
+    font-color: rgb(148, 25, 25);
 }
 
 .navbar-default .navbar-brand {
     color: rgb(148, 25, 25);
-	font-family: 'Amatic SC', cursive;
-	font-size: 50px;
+    font-family: 'Amatic SC', cursive;
+    font-size: 50px;
 }
 
 .navbar-default .navbar-nav>li>a {
     color: rgb(148, 25, 25);
-	font-family: 'Amatic SC', cursive;
-	font-size: 35px;
+    font-family: 'Amatic SC', cursive;
+    font-size: 35px;
+}
+
+.logo {
+    padding-top: 5px;
+}
+
+.evan {
+    font-size: 75px;
 }

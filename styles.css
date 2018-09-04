@@ -67,18 +67,63 @@ p {
 	text-indent: 25px;
 }
 
-h2, h3, h4, ul {
+h2, h3, h4,  {
 	font-family: 'Comfortaa', cursive;
 	color: black;
 	margin-left: 10%;
 	font-size: 25px;
+	width: auto;
 }
 
 iframe {
 	float: left;
 	margin-top: 25px;
 	margin-left: 25px;
+}
+
+.top {
+	border: solid;
+	margin: 25px;
+	display: flex;
+	flex-wrap: none;
+	flex-direction: row;
+	padding-bottom: 15px;
+}
+
+.profile {
+	height: 300px;
+	width:auto;
+	border: solid;
+	margin-right:15px;
+}
+
+.profile-right {
+	height: 350px;
+	width:auto;
+	margin-right:15px;
+	border:solid;
+	display: flex;
+	margin-bottom: 25px;
+	margin-left: 250px;
+}
+
+.lower {
+	display: flex;
+	flex-direction: row;
+	padding-left: 250px;
 	
-	
-	
+}
+
+.list {
+	font-family: 'Comfortaa', cursive;
+	color: black;
+	margin-left: 10%;
+	font-size: 25px;
+	width: 375px;
+	padding: 10px;
+}
+
+.last-pic {
+	display: flex;
+	flex-direction: row;
 }
