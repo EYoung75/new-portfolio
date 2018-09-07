@@ -9,3 +9,5 @@ This about me page provides a simple and "iceberg" summary of the basics of who 
 young-sick-site.surge.sh
 
 ##WireFremwork
+https://github.com/EYoung75/new-portfolio/blob/master/IMG_0151.jpg
+https://github.com/EYoung75/new-portfolio/blob/master/IMG_0152.jpg
